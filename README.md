@@ -26,7 +26,7 @@ https://github.com/tiandechun/TdcDataMining/edit/main/README.md
 ![4](https://img-blog.csdnimg.cn/118a769bcbb44a09897cf8e6a36250d5.png)
 
 8、创建成功
-上传ppt
+#上传ppt
 1、add file 选择上传本地文件
 
 2、上传课程ppt，点击提交
