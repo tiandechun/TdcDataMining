@@ -1,5 +1,6 @@
 软件学院 软件工程 田德春 82339306
 
+https://github.com/tiandechun/TdcDataMining/edit/main/README.md
 # 注册流程
 
 1、进入github的官网https://github.com/
