@@ -26,6 +26,11 @@ https://github.com/tiandechun/TdcDataMining/edit/main/README.md
 ![4](https://img-blog.csdnimg.cn/118a769bcbb44a09897cf8e6a36250d5.png)
 
 8、创建成功
+上传ppt
+1、add file 选择上传本地文件
+
+2、上传课程ppt，点击提交
+
 # 希望学习的内容
 机器学习算法包括线性回归、逻辑回归、决策树（CART、ID3、C4.5、Random Forest等）、支持向量机、朴素贝叶斯、K均值聚类、随机森林、神经网络、深度学习等。
 培养数学基础，机器学习涉及到很多数学概念，特别是线性代数、概率论和统计学。
